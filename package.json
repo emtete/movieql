@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/emtete/movieql",
   "author": "jongho choi",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  },
+  "script": {
+    "start": "nodemon"
+  }
 }
